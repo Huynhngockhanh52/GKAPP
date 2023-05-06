@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax.xml.bind">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javax.xml.bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TimingFramework-0.55.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
