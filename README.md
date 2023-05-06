@@ -39,3 +39,19 @@ git clone https://github.com/Huynhngockhanh52/GKAPP.git
   <p align="center">
     <img src="image/edit.png"  >
   </p>
+## Các chức năng của ứng dụng:
+- ### Chức năng Add Medicine:
+  Khi nhấn vào button ***Add Medicine*** trong DashBoard thì giao diện thêm thông tin vật tư sẽ hiện ra
+  <p align="center">
+    <img src="image/exam-add.png"  >
+  </p>
+  Nếu ta bỏ trống một thông tin nào, ứng dụng sẽ hiển thị thông báo lỗi với thông tin đó. 
+  <p align="center">
+    <img src="image/exam-add.png"  >
+  </p>
+  Đối với định dạng NSX, HSD, nếu ta nhập không đúng định dạng thì ứng dụng sẽ thông báo không đúng định dạng NSX, HSD. Định dạng đúng là: dd/mm/yyyy
+  <p align="center">
+    <img src="image/exam-add.png"  >
+  </p>
+
+
