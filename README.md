@@ -78,7 +78,7 @@ git clone https://github.com/Huynhngockhanh52/GKAPP.git
     <img src="image/search.png"  >
   </p>
   Chức năng tìm kiếm vật tư sẽ cho phép người dùng chọn nhiều loại dữ liệu (ID, tên, loại, NSX, HSD, ...) và thực hiện tìm kiếm bằng cách tìm xem trong các trường đó có chứa thông tin cần tìm kiếm đó không.
-  Khi người dùng nhấn chọn tìm kiếm theo một loại nào thì truognwf nhập tìm kiếm sẽ hiện ra như trong hình sau:
+  Khi người dùng nhấn chọn tìm kiếm theo một loại nào thì trường nhập tìm kiếm sẽ hiện ra như trong hình sau:
   <p align="center">
     <img src="image/exam-search.png"  >
   </p>
