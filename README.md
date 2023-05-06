@@ -11,4 +11,4 @@ git clone https://github.com/Huynhngockhanh52/GKAPP.git
 <p align="center">
   <img src="image/uiapp.png"  >
 </p>
-Đăng nhập với tài khoản là __admin__ và mật khẩu là *admin*:
+- Đăng nhập với tài khoản là **admin** và mật khẩu là **admin**
