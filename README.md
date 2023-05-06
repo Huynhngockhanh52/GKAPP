@@ -9,6 +9,6 @@ git clone https://github.com/Huynhngockhanh52/GKAPP.git
  - Mở dự án bằng Netbean hoặc IntelliJ.
  - Chọn và chạy file Main.java: 
 <p align="center">
-  <img src="runfile.png"  >
+  <img src="image/uiapp.png"  >
 </p>
-- Đăng nhập với tài khoản là admin và mật khẩu là admin:
+Đăng nhập với tài khoản là __admin__ và mật khẩu là *admin*:
