@@ -1,12 +1,26 @@
 # MEDICINE APP
 App quản lý thuốc - bài tập giữa kỳ
+
+## Tính năng
+- Tra cứu và tìm kiếm thuốc trong nhà thuốc
+- Thêm thuốc
+- Sửa thông tin thuốc
+- Xóa thuốc khỏi nhà thuốc
+
+## 🛠️ Cài đặt môi trường
+
+* Cài đặt [jdk 19](https://download.oracle.com/java/19/archive/jdk-19.0.2_windows-x64_bin.exe)
+
+* Cài đặt [intellij IDEA](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows)
+
 ## Tải dự án về
 Mở folder cần chứa dự án, sau đó clone:
 ```
 git clone https://github.com/Huynhngockhanh52/GKAPP.git
 ```
+
 ## Chạy dự án
- - Mở dự án bằng Netbean hoặc IntelliJ.
+ - Mở dự án bằng IntelliJ.
  - Chọn và chạy file Main.java: 
  - Đăng nhập với tài khoản là ***admin*** và mật khẩu là ***admin***
  <p align="center">
@@ -89,4 +103,13 @@ git clone https://github.com/Huynhngockhanh52/GKAPP.git
   + #### Thư viện javax.xml.bind, version: 2.3.1 và 4.0
   + #### Thư viện miglayout, version 4.0
   + #### Thư viện TimingFramework, version 0.55
- 
+
+## Các công nghệ được sử dụng:
+- miglayout 
+- org-jdesktop-animation-timing
+- jaxb-impl
+- commons-validator
+
+## 🚀 Tác giả
+- Github: [Huỳnh Ngọc Khanh](https://github.com/Huynhngockhanh52)
+- Facebook: [Huỳnh Ngọc Khanh](https://www.facebook.com/profile.php?id=100008769732209)
