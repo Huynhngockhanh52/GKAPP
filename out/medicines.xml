@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<medicines>
+    <medicine>
+        <ID>1001</ID>
+        <nameM>Kì Linh Bách</nameM>
+        <NSXM>1/12/2022</NSXM>
+        <HSDM>1/1/2050</HSDM>
+        <typeM>Thuốc Bắc</typeM>
+        <soloM>TY10133AM</soloM>
+        <ctyM>Việt Linh Nhi</ctyM>
+        <numM>120</numM>
+    </medicine>
+    <medicine>
+        <ID>1002</ID>
+        <nameM>Hỉ Quốc Phúc</nameM>
+        <NSXM>1/1/2011</NSXM>
+        <HSDM>21/12/2025</HSDM>
+        <typeM>Thuốc Bắc</typeM>
+        <soloM>TM2882A</soloM>
+        <ctyM>Đông Y Hoàng hà</ctyM>
+        <numM>125</numM>
+    </medicine>
+    <medicine>
+        <ID>1004</ID>
+        <nameM>Thuốc Ngủ</nameM>
+        <NSXM>10/12/2020</NSXM>
+        <HSDM>20/10/2025</HSDM>
+        <typeM>Thực Phẩm Chức Năng</typeM>
+        <soloM>TH82293</soloM>
+        <ctyM>Hoàng Hà</ctyM>
+        <numM>12</numM>
+    </medicine>
+    <medicine>
+        <ID>1005</ID>
+        <nameM>Đông Trùng Hạ Thảo</nameM>
+        <NSXM>1/2/2020</NSXM>
+        <HSDM>31/12/2045</HSDM>
+        <typeM>Thuốc Bắc</typeM>
+        <soloM>TM562A</soloM>
+        <ctyM>Đông Y Hoàng hà</ctyM>
+        <numM>1002</numM>
+    </medicine>
+    <medicine>
+        <ID>1006</ID>
+        <nameM>Vũ Hoàng Cung</nameM>
+        <NSXM>1/1/2019</NSXM>
+        <HSDM>2/2/2030</HSDM>
+        <typeM>Thuốc hiến muộn</typeM>
+        <soloM>TA1002</soloM>
+        <ctyM>Dăng Dang</ctyM>
+        <numM>123</numM>
+    </medicine>
+    <medicine>
+        <ID>1008</ID>
+        <nameM>Hoành Sơn</nameM>
+        <NSXM>12/12/2020</NSXM>
+        <HSDM>2/9/2030</HSDM>
+        <typeM>Thuốc Nam</typeM>
+        <soloM>TA238</soloM>
+        <ctyM>Viet Nam A</ctyM>
+        <numM>1200</numM>
+    </medicine>
+    <medicine>
+        <ID>1007</ID>
+        <nameM>Hinh Thư</nameM>
+        <NSXM>12/1/2021</NSXM>
+        <HSDM>12/12/2025</HSDM>
+        <typeM>Thực phẩm chức năng</typeM>
+        <soloM>TM34823</soloM>
+        <ctyM>Hu</ctyM>
+        <numM>123</numM>
+    </medicine>
+</medicines>
