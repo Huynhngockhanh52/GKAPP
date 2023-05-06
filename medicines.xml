@@ -50,4 +50,14 @@
         <ctyM>Dăng Dang</ctyM>
         <numM>123</numM>
     </medicine>
+    <medicine>
+        <ID>1006</ID>
+        <nameM>Hoành Sơn</nameM>
+        <NSXM>12/12/2020</NSXM>
+        <HSDM>2/9/2030</HSDM>
+        <typeM>Thuốc Nam</typeM>
+        <soloM>TA238</soloM>
+        <ctyM>Viet Nam A</ctyM>
+        <numM>1200</numM>
+    </medicine>
 </medicines>
